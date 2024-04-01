@@ -11,8 +11,7 @@ public class Main {
         String url="jdbc:mysql://localhost:3306/libmanage";
         String userName="root";
         String passWord="Xuanqixian1234";
-
-
+        
         //加载驱动
         try {
             Class.forName(driver);
