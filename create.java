@@ -9,6 +9,8 @@ import java.sql.Statement;
 
 /**
  * 功能：用来完成表的创建
+ 一共需要创建四个表
+
  */
 public class create {
     public static void main(String[] args) throws SQLException {
